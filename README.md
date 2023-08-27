@@ -13,5 +13,6 @@ A construção do projeto envolve várias etapas que permitem coletar, armazenar
 - **Configuração do Amazon Athena e Análise de dados:** Optou-se por utilizar o Athena tornamdo-se possível consultas SQL interativas nos dados catalogados para análise.
 - **Visualização de Dados:** Utilização do Power BI como ferramentas de visualização para criar painéis de controle e gráficos com os insights obtidos.
 ### Arquitetura do Projeto:
-![image](https://github.com/flaviasipres/bootcamp-how-engenharia-de-dados/assets/68780037/9b9f5986-2b6b-41ea-a9a9-30d936cf4c6c)
+![image](https://github.com/flaviasipres/bootcamp-how-engenharia-de-dados/assets/68780037/4b91df50-c2c6-478b-8b8d-dc1678e9ec3a)
 Para verificar as capturas do desenvolvimento do projeto, [clique aqui]().
+
